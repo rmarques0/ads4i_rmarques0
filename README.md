@@ -3,7 +3,7 @@
 # Conclusões
 
 ### Modelagem
-Conheci a biblioteca PyCareti há poucos dias, quando me deparei com um compartilhamento dessa no LinkedIn. Achei uma proposta bastante interessante e aproveitei o desafio para colocar em prática esse novo conhecimento. A utilização dessa biblioteca possibilitou automatizar boa parte da modelagem, e principalmente na comparação entre os modelos. Outros modelos mais robustos são possíveis, porém optei por utilizar somente os algorítimos já presentes no pacote. 
+PyCaret é uma biblioteca de aprendizado de máquina de código aberto em Python que visa reduzir a hipótese ao tempo de ciclo de insights em um experimento de ML. Ele permite que os cientistas de dados realizem experimentos completos com rapidez e eficiência. A utilização dessa biblioteca possibilitou automatizar boa parte da modelagem, e principalmente na comparação entre os modelos. Outros modelos mais robustos são possíveis, porém optei por utilizar somente os algorítimos já presentes no pacote. 
 [Documentação da biblioteca](https://pycaret.org/guide/)
 <br><br>
 
